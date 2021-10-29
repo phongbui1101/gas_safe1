@@ -1,7 +1,7 @@
 const USERNAME = "phongbui1101";
-const KEY = "aio_RkEE84QMHQWww7iYnQriO0oB4PfA";
+const KEY = "aio_xDNx96jleZu8xsVwAAP7bt8gcPDZ";
 const USERNAME_1 = "phongbui1101";
-const KEY_1 = "aio_RkEE84QMHQWww7iYnQriO0oB4PfA";
+const KEY_1 = "aio_xDNx96jleZu8xsVwAAP7bt8gcPDZ";
 
 $(document).ready(function() {
 sessionStorage.sensor = 11;
